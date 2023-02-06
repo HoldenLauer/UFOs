@@ -9,7 +9,7 @@ Lets search by state for this exapmple I will search by tx:
 ![tx search](https://user-images.githubusercontent.com/110861876/197883104-074a123b-f30f-4488-b958-b801640ac969.png)
 As you can see all that shows on the table is from the state of Texas.
 ## Summary
-One drawback of the of the webpage is that there is no link to the data or to where we got the information for the article for the user if they wanted access to it.
+One drawback of the webpage is that there is no link to the data or to where we got the information for the article for the user if they wanted access to it.
 
 Two further developmental recomendations are:
 - Add another filter group to be able to compare seperate filter searches faster.
